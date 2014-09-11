@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # built application files
 *.apk
 *.ap_
@@ -27,3 +28,10 @@ proguard/
 *.ipr
 *.iws
 .idea/
+=======
+bin
+gen
+.gradle
+build
+.settings
+>>>>>>> volley/master
