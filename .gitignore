@@ -34,4 +34,10 @@ gen
 .gradle
 build
 .settings
+<<<<<<< HEAD
+>>>>>>> volley/master
+=======
+target
+*.iml
+.idea
 >>>>>>> volley/master
